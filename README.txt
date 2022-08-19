@@ -1,10 +1,10 @@
-Group 22:-
-IMT2020553, Abhinav Mahajan
-IMT2020006, Harsh Shah
-IMT2020524, Anant Pandey
-IMT2020100, Teja Janaki Ram
-IMT2020127, Dharmin Mehta
-IMT2020541, Vamshidhar Reddy
+# Group 22:-
+**IMT2020553, Abhinav Mahajan**
+**IMT2020006, Harsh Shah**
+**IMT2020524, Anant Pandey**
+**IMT2020100, Teja Janaki Ram**
+**IMT2020127, Dharmin Mehta**
+**IMT2020541, Vamshidhar Reddy**
 
 Work Distribution:-
 Harsh Shah, Dharmin Mehta, Teja- Worked on TIFF.
